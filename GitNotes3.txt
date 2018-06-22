@@ -1,0 +1,2 @@
+should probably make .txt files so that they can be opened in ubuntu
+.pages are helpful in mac to comment and have notes but .txt are the only transferrable files
